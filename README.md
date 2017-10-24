@@ -1,4 +1,4 @@
-# ProjectTIPO
+# Project TIPO
 Trash In Product Out
 
 Project TIPO is an offspring of the Fab Lab's movement and the Fab City Initiative.
